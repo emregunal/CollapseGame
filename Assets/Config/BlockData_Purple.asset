@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b4651a97e300446bb9ec179f2fa29f, type: 3}
+  m_Name: BlockData_Purple
+  m_EditorClassIdentifier: 
+  colorName: Purple
+  color: 4
+  sprites:
+    defaultIcon: {fileID: 8161472552560778960, guid: 5d21dcd27799e60458990c36212b9e6e, type: 3}
+    iconA: {fileID: -6416537123964203564, guid: 7e409751713b123449d01a04aed086fa, type: 3}
+    iconB: {fileID: -2693315669398477313, guid: c027515c823b1bf498f7538ac44fe635, type: 3}
+    iconC: {fileID: 1386842339749069192, guid: 1134d659efe710944af8678e7d82ab05, type: 3}

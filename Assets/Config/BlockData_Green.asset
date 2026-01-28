@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96b4651a97e300446bb9ec179f2fa29f, type: 3}
+  m_Name: BlockData_Green
+  m_EditorClassIdentifier: 
+  colorName: Green
+  color: 2
+  sprites:
+    defaultIcon: {fileID: -7364823422338184377, guid: 55e906eb1452c9e418981cc4607c3c20, type: 3}
+    iconA: {fileID: 3291406690555587084, guid: efa870f77654e9a4190563f5fcb0fa99, type: 3}
+    iconB: {fileID: -2176861220364285743, guid: f4743f6ab5f4238469883d87df425212, type: 3}
+    iconC: {fileID: 6787462199040882907, guid: 299044c6112467f4b9dd8c05db3a3d75, type: 3}
